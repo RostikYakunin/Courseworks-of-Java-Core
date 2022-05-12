@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CourseWork4 {
+public class CourseWork3 {
 
    static int Method (String str) {
        int sum = 0;                              // создание переменной для подсчета значений букв
